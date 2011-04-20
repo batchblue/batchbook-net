@@ -1,3 +1,6 @@
 .DS_Store
-
-
+BatchBook/obj
+BatchBook/bin
+BatchBookSample/obj
+BatchBookSample/bin
+**/_Resharper.*
