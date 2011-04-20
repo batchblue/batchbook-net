@@ -3,6 +3,7 @@
 ## Getting Started
 
     `git clone git@github.com:batchblue/batchbook-net.git`
+    Look at BatchBookSample for a simple asp.net app using the wrapper.
 
 ## Thanks
     A special thanks to John Roper and revenueloan.com for sharing their .NET plugin
